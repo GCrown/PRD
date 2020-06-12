@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="170px" height="130px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="170px" height="172px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip29">
-      <path d="M 203 580  L 203 460  C 203 454.45  207.45 450  213 450  L 363 450  C 368.55 450  373 454.45  373 460  L 373 580  " fill-rule="evenodd" />
+    <mask fill="white" id="clip30">
+      <path d="M 379 622  L 379 460  C 379 454.45  383.45 450  389 450  L 539 450  C 544.55 450  549 454.45  549 460  L 549 622  " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -203 -450 )">
-    <path d="M 203 450  L 373 450  L 373 580  L 203 580  L 203 450  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip29)" />
-    <path d="M 212 459  L 364 459  L 364 571  L 212 571  L 212 459  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip29)" />
-    <path d="M 301.15 489  C 295.69 489  291.4 484.71  291.4 479.25  C 291.4 473.79  295.69 469.5  301.15 469.5  C 306.61 469.5  310.9 473.79  310.9 479.25  C 310.9 484.71  306.61 489  301.15 489  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip29)" />
-    <path d="M 216 568  L 216 510.25  L 252.25 484  L 303 519.823529411765  L 332 499.75  L 361 519.823529411765  L 361 568  L 216 568  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip29)" />
+  <g transform="matrix(1 0 0 1 -379 -450 )">
+    <path d="M 379 450  L 549 450  L 549 622  L 379 622  L 379 450  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip30)" />
+    <path d="M 391 462  L 537 462  L 537 610  L 391 610  L 391 462  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip30)" />
+    <path d="M 480.15 501.3  C 473.01 501.3  467.4 495.69  467.4 488.55  C 467.4 481.41  473.01 475.8  480.15 475.8  C 487.29 475.8  492.9 481.41  492.9 488.55  C 492.9 495.69  487.29 501.3  480.15 501.3  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip30)" />
+    <path d="M 396 606  L 396 529.55  L 430.25 494.8  L 478.2 522.6  L 505.6 515.65  L 533 522.6  L 533 606  L 396 606  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip30)" />
   </g>
 </svg>
